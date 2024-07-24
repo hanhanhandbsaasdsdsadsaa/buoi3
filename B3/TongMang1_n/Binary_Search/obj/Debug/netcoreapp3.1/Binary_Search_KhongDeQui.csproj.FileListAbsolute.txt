@@ -1,0 +1,14 @@
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\bin\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.exe
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\bin\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.deps.json
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\bin\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.runtimeconfig.json
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\bin\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.runtimeconfig.dev.json
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\bin\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.dll
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\bin\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.pdb
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.csproj.AssemblyReference.cache
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.GeneratedMSBuildEditorConfig.editorconfig
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.AssemblyInfoInputs.cache
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.AssemblyInfo.cs
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.csproj.CoreCompileInputs.cache
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.dll
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.pdb
+D:\Buoi3\Bai1\TongMang1_n\Binary_Search\obj\Debug\netcoreapp3.1\Binary_Search_KhongDeQui.genruntimeconfig.cache

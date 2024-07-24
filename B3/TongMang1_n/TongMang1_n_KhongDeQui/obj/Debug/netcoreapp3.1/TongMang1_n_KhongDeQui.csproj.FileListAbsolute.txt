@@ -1,0 +1,13 @@
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\bin\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.exe
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\bin\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.deps.json
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\bin\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.runtimeconfig.json
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\bin\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.runtimeconfig.dev.json
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\bin\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.dll
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\bin\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.pdb
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\obj\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.GeneratedMSBuildEditorConfig.editorconfig
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\obj\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.AssemblyInfoInputs.cache
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\obj\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.AssemblyInfo.cs
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\obj\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.csproj.CoreCompileInputs.cache
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\obj\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.dll
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\obj\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.pdb
+D:\Buoi3\Bai1\TongMang1_n\TongMang1_n_KhongDeQui\obj\Debug\netcoreapp3.1\TongMang1_n_KhongDeQui.genruntimeconfig.cache

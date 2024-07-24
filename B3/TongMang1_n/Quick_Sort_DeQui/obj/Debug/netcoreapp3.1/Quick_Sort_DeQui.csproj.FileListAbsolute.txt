@@ -1,0 +1,14 @@
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\bin\Debug\netcoreapp3.1\Quick_Sort_DeQui.exe
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\bin\Debug\netcoreapp3.1\Quick_Sort_DeQui.deps.json
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\bin\Debug\netcoreapp3.1\Quick_Sort_DeQui.runtimeconfig.json
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\bin\Debug\netcoreapp3.1\Quick_Sort_DeQui.runtimeconfig.dev.json
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\bin\Debug\netcoreapp3.1\Quick_Sort_DeQui.dll
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\bin\Debug\netcoreapp3.1\Quick_Sort_DeQui.pdb
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\obj\Debug\netcoreapp3.1\Quick_Sort_DeQui.csproj.AssemblyReference.cache
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\obj\Debug\netcoreapp3.1\Quick_Sort_DeQui.GeneratedMSBuildEditorConfig.editorconfig
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\obj\Debug\netcoreapp3.1\Quick_Sort_DeQui.AssemblyInfoInputs.cache
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\obj\Debug\netcoreapp3.1\Quick_Sort_DeQui.AssemblyInfo.cs
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\obj\Debug\netcoreapp3.1\Quick_Sort_DeQui.csproj.CoreCompileInputs.cache
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\obj\Debug\netcoreapp3.1\Quick_Sort_DeQui.dll
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\obj\Debug\netcoreapp3.1\Quick_Sort_DeQui.pdb
+D:\Buoi3\Bai1\TongMang1_n\Quick_Sort_DeQui\obj\Debug\netcoreapp3.1\Quick_Sort_DeQui.genruntimeconfig.cache
